@@ -13,18 +13,18 @@ Basic:
   
 
 ### Engx & Agile Highlight:
-* [Summary Card](https://github.com/FelixAnna/keep-learning/blob/develop/learn-history/card.md)
+* [Summary Card](./learn-history/card.md)
 
 #### Engx:
-* [clean code](https://github.com/FelixAnna/keep-learning/blob/develop/learn-history/engx/clean_code/clean_code.md)
-* [clean design](https://github.com/FelixAnna/keep-learning/blob/develop/learn-history/engx/clean_architecture/clean_design.md)
-* [code review](https://github.com/FelixAnna/keep-learning/blob/develop/learn-history/engx/codereview.md)
+* [clean code](./learn-history/engx/clean_code/clean_code.md)
+* [clean design](./learn-history/engx/clean_architecture/clean_design.md)
+* [code review](./learn-history/engx/codereview.md)
 
 #### Agile:
 * [leading_safe.md](./learn-history/agile/leading_safe.md)
 * [basic.md](./learn-history/agile/basic.md)
-* [The Scrum Process.pdf](./learn-history/agile/The%20Scrum%20Process.pdf)
-* [Leading SAFe Digital Workbook (5.1).pdf](./learn-history/agile/Leading%20SAFe%20Digital%20Workbook%20(5.1).pdf)
+* [The Scrum Process.pdf](https://github.com/FelixAnna/keep-learning/tree/develop/learn-history/agile/The%20Scrum%20Process.pdf)
+* [Leading SAFe Digital Workbook (5.1).pdf](https://github.com/FelixAnna/keep-learning/tree/develop/learn-history/agile/Leading%20SAFe%20Digital%20Workbook%20(5.1).pdf)
 
 
 ### Azure:
@@ -34,7 +34,7 @@ Basic:
 * [Aws](./learn-history/aws/)
 
 ### Java:
-* [Java](./learn-history/java/)
+* [Java](./learn-history/knowledge/java/)
 
 ### C#:
 * [C#](https://linkdotnetblogstorage.azureedge.net/blog/20230205_CSharpMindMap/MindMap.svg)
